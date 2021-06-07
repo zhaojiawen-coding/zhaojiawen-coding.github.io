@@ -17,10 +17,27 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+      <categories>
+        <category>Sports</category>
+        <category>Baseball</category>
+      </categories>
+      <tags>
+        <tag>Injury</tag>
+        <tag>Fight</tag>
+        <tag>Shocking</tag>
+      </tags>
   </entry>
   <entry>
     <title>test post</title>
     <url>/2021/06/07/test-post/</url>
     <content><![CDATA[]]></content>
+      <categories>
+        <category>Sports</category>
+        <category>测试1</category>
+      </categories>
+      <tags>
+        <tag>Injury</tag>
+        <tag>测试</tag>
+      </tags>
   </entry>
 </search>
